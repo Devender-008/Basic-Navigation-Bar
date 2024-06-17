@@ -27,7 +27,7 @@ Make sure you have the following installed:
 
 ## Website
 Here is the link of the navigation bar 
--[website](https://devender-008.github.io/Basic-Navigation-Bar )
+-  [website](https://devender-008.github.io/Basic-Navigation-Bar )
 
 ## Usage
 To view the navigation bar in action:
